@@ -1,7 +1,7 @@
-# Blender 2.80 White Model Rendering Addon
+# Blender 2.80 LOD-2 Model Rendering Addon
 
 ## Introduction
-- For the white model obtained in photogrammetry modeling, it is usually required to render it for more beautiful display. This addon is able to automatically render the building white model, give the roof a red material, and the building body gives the gray material, automatically adjust the light and so on.
+- For the LOD-2 model obtained in photogrammetry modeling, it is usually required to render it for more beautiful display. This addon is able to automatically render the building LOD-2 model, give the roof a red material, and the building body gives the gray material, automatically adjust the light and so on.
 
 ## Main Function
 1. The model is scaled to the (0-1) interval for subsequent uploading and display.
